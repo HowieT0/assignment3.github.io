@@ -1,0 +1,114 @@
+#opening{
+    background-image: url(/assets/main2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: inset 1000px 1000px   rgba(0, 0, 0, 0.3);
+}
+
+#ching{
+    background-image: url(/assets/japan.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#ching .row{
+    position: relative;
+    top: 40vh;
+    left:5vw;
+}
+
+#japan1{
+    background-image: url(/assets/japan2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#japan1 .row{
+    position: relative;
+    top: 40vh;
+    left:5vw;
+}
+
+#japan2{
+    background-image: url(/assets/1940.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#japan2 .row{
+    position: relative;
+    top: 20vh;
+    left:55vw;
+}
+
+#street1{
+    background-image: url(/assets/19402.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#street1 .row{
+    position: relative;
+    top: 50vh;
+    left:60vw;
+}
+
+#constructing{
+    background-image: url(/assets/1980_high.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#constructing .row{
+    position: relative;
+    top: 50vh;
+    left:60vw;
+}
+
+#street2{
+    background-image: url(/assets/19403.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#street2 .row{
+    position: relative;
+    top: 50vh;
+    left:60vw;
+}
+
+#now1{
+    background-image: url(/assets/constructing_thestraittimes.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#now1 .row{
+    position: relative;
+    top: 50vh;
+    left:60vw;
+}
+
+#now2{
+    background-image: url(/assets/main.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#now2 .row{
+    position: relative;
+    top: 30vh;
+    left:60vw;
+}
+
+#info{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#info .row{
+    position: relative;
+    top: 25vh;
+}
